@@ -5,3 +5,6 @@ The repository contains solutions from Cryptography Course (Kryptografia) classe
 ## Content
 1. [Classical cryptography](https://github.com/zawislakm/Cryptography/tree/master/Lab1)
 2. [Finite field](https://github.com/zawislakm/Cryptography/tree/master/Lab2)
+3. [Symmetric cipher](https://github.com/zawislakm/Cryptography/tree/master/Lab3)
+4. ?
+5. [SHA-3](https://github.com/zawislakm/Cryptography/tree/master/Lab5)
